@@ -7,6 +7,6 @@
     <string name="title_activity_sudoku_main">SudokuMainActivity</string>
     <string name="title_activity_sudoku_play">SudokuPlayActivity</string>
     <drawable name="cl_gold">#FFFF99</drawable>
-    <drawable name="bg_grid">@android:drawable/grid</drawable>
+    <drawable name="bg_grid">@drawable/grid</drawable>
 
 </resources>

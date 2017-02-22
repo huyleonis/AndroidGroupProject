@@ -23,6 +23,7 @@ public final class R {
     }
     public static final class drawable {
         public static final int background=0x7f020000;
+        public static final int bg_grid=0x7f020005;
         public static final int cl_gold=0x7f020004;
         public static final int grid=0x7f020001;
         public static final int ic_background=0x7f020002;
@@ -32,18 +33,21 @@ public final class R {
         public static final int AbsoluteLayout1=0x7f080000;
         public static final int Button01=0x7f080003;
         public static final int Button02=0x7f080001;
-        public static final int action_settings=0x7f080012;
-        public static final int btnNewGame=0x7f080011;
+        public static final int action_settings=0x7f080015;
+        public static final int btnNewGame=0x7f080012;
         public static final int button1=0x7f080002;
-        public static final int button2=0x7f080009;
-        public static final int button3=0x7f08000a;
-        public static final int button4=0x7f08000b;
-        public static final int button5=0x7f08000c;
-        public static final int button6=0x7f08000d;
-        public static final int button7=0x7f08000e;
-        public static final int button8=0x7f08000f;
-        public static final int button9=0x7f080010;
+        public static final int button10=0x7f080013;
+        public static final int button2=0x7f08000a;
+        public static final int button3=0x7f08000b;
+        public static final int button4=0x7f08000c;
+        public static final int button5=0x7f08000d;
+        public static final int button6=0x7f08000e;
+        public static final int button7=0x7f08000f;
+        public static final int button8=0x7f080010;
+        public static final int button9=0x7f080011;
         public static final int editText1=0x7f080008;
+        public static final int imageButton1=0x7f080014;
+        public static final int imageView1=0x7f080009;
         public static final int sbLevel=0x7f080005;
         public static final int textView1=0x7f080004;
         public static final int textView2=0x7f080007;
