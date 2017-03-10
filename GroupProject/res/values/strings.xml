@@ -8,5 +8,6 @@
     <string name="title_activity_sudoku_play">SudokuPlayActivity</string>
     <drawable name="cl_gold">#FFFF99</drawable>
     <drawable name="bg_grid">@drawable/grid</drawable>
+    <drawable name="bg_border">@drawable/border</drawable>
 
 </resources>

@@ -1,6 +1,6 @@
 <AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/AbsoluteLayout1"
+    android:id="@+id/playView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background"
@@ -24,7 +24,8 @@
         android:layout_height="56dp"
         android:layout_x="28dp"
         android:layout_y="142dp"
-        android:text="Sudoku" />
+        android:text="Sudoku" 
+        android:onClick="chooseSudoku"/>
 
     <Button
         android:id="@+id/Button01"
